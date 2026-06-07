@@ -50,7 +50,7 @@
 <!---  ABOUT ME SECTION                                                                   --->
 <!------------------------------------------------------------------------------------------->
 
-## 🛡️ ABOUT ME
+## 🛡️ WHO AM I?
 
 <table width="100%">
   <tr>
@@ -64,25 +64,25 @@
       🎓 <b>Education:</b> B.Sc. Hons. Computer Science (Expected 2026) | GPA: 3.5/4.0 | <b>Top 10% of Class</b><br/><br/>
       📜 <b>Certifications:</b> 40+ Industry Recognized | CEH v12 | CompTIA CySA+ | Python 100/100<br/><br/>
       ⭐ <b>Upwork:</b> 95% Client Satisfaction | International Clients<br/><br/>
-      💡 <b>Problem Solving:</b> 100+ LeetCode/HackerRank Problems Solved
+      💡 <b>Problem Solving:</b> 100+ LeetCode/HackerRank Problems Solved<br/><br/>
+      ⏰ <b>Experience:</b> 1.5+ Years Combined (Development + Teaching)
     </td>
     <td width="40%" align="center">
-      <!-- ASCII ART OR CODE SNIPPET -->
       <pre>
    ┌─────────────────────────┐
    │  ABDULLAH ARIF          │
    ├─────────────────────────┤
-   │  ████████░░   Python    │
-   │  ████████░░   Django    │
-   │  ███████░░░   Security  │
-   │  ███████░░░   AI/ML     │
-   │  ██████░░░░   Teaching  │
+   │  ██████████   Python    │
+   │  ██████████   Django    │
+   │  ████████░░   Security  │
+   │  ████████░░   AI/ML     │
+   │  ███████░░░   Teaching  │
    ├─────────────────────────┤
    │  🚀 Available for Work   │
    └─────────────────────────┘
       </pre>
     </td>
-  </tr>
+  </table>
 </table>
 
 <br/>
@@ -137,7 +137,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="60"/><br/>
         <b>Development</b><br/>
         <sub>VS Code • Jupyter</sub>
-      </td>
+       </td>
     </tr>
   </table>
 </div>
@@ -217,65 +217,46 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏫 School Learning Management System (SLMS)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
-        <img src="https://img.shields.io/badge/NLP-1D3557?style=flat&logo=spacy" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite" />
-      </p>
-      <p><i>AI-Enhanced Final Year Project with automated grading, plagiarism detection, and predictive analytics dashboards for educators.</i></p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-coming_soon-gray?style=for-the-badge" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/📂_Source_Code-private-blue?style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏫 SM Academy Website</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
-      </p>
-      <p><i>Educational portal with role-based access control, custom admin panel, and student data management system.</i></p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-coming_soon-gray?style=for-the-badge" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/📂_Source_Code-private-blue?style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💰 Personal Finance Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python" />
-      </p>
-      <p><i>Expense tracking, budgeting tools, financial reporting, and data visualization for personal finance insights.</i></p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-coming_soon-gray?style=for-the-badge" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/📂_Source_Code-private-blue?style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👔 Employee Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus" />
-        <img src="https://img.shields.io/badge/OOP-1a4732?style=flat" />
-      </p>
-      <p><i>Comprehensive C++ application for employee records, attendance tracking, and performance evaluation.</i></p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Demo-coming_soon-gray?style=for-the-badge" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/📂_Source_Code-private-blue?style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+| 项目 |
+|:------|
+| <h3 align="center">🏫 School Learning Management System (SLMS)</h3>
+| <p align="center">
+|   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+|   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
+|   <img src="https://img.shields.io/badge/NLP-1D3557?style=flat&logo=spacy" />
+|   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite" />
+| </p>
+| <p><i>AI-Enhanced Final Year Project with automated grading, plagiarism detection, and predictive analytics dashboards for educators.</i></p> |
+
+| 项目 |
+|:------|
+| <h3 align="center">🏫 SM Academy Website</h3>
+| <p align="center">
+|   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
+|   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5" />
+|   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" />
+|   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
+| </p>
+| <p><i>Educational portal with role-based access control, custom admin panel, and student data management system.</i></p> |
+
+| 项目 |
+|:------|
+| <h3 align="center">💰 Personal Finance Management System</h3>
+| <p align="center">
+|   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+|   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
+|   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python" />
+| </p>
+| <p><i>Expense tracking, budgeting tools, financial reporting, and data visualization for personal finance insights.</i></p> |
+
+| 项目 |
+|:------|
+| <h3 align="center">👔 Employee Management System</h3>
+| <p align="center">
+|   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus" />
+|   <img src="https://img.shields.io/badge/OOP-1a4732?style=flat" />
+| </p>
+| <p><i>Comprehensive C++ application for employee records, attendance tracking, and performance evaluation.</i></p> |
 
 </div>
 
@@ -323,3 +304,52 @@ graph LR
     style D fill:#e63946,stroke:#9b2c1a,color:#fff
     style E fill:#2d6a4f,stroke:#1a472a,color:#fff
     style F fill:#2d6a4f,stroke:#1a472a,color:#fff
+
+<!-------------------------------------------------------------------------------------------><!--- WEEKLY STATS & ACTIVITY LOG ---><!------------------------------------------------------------------------------------------->
+📈 WEEKLY DEVELOPMENT BREAKDOWN
+<details> <summary><b>📊 Click to see my coding activity</b></summary> <br/>
+text
+Python      ████████████████████░░░░░░░░   45.2%
+JavaScript  ██████████████░░░░░░░░░░░░░░   32.5%
+HTML/CSS    ████████░░░░░░░░░░░░░░░░░░░░   15.8%
+SQL         ████░░░░░░░░░░░░░░░░░░░░░░░░   6.5%
+</details>
+<!-------------------------------------------------------------------------------------------><!--- TEACHING PHILOSOPHY SECTION ---><!------------------------------------------------------------------------------------------->
+💭 TEACHING PHILOSOPHY
+<i>"I believe in <b>future-ready education</b>—where artificial intelligence and technology are not just tools, but partners in the learning process. My goal is to create classrooms where automation handles administrative burdens, data guides instructional decisions, and every student receives a <b>personalized learning journey</b>."</i>
+
+
+<!-------------------------------------------------------------------------------------------><!--- COMPETITIVE PROGRAMMING SECTION ---><!------------------------------------------------------------------------------------------->
+🧠 COMPETITIVE PROGRAMMING
+<div align="center"> <a href="#"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="#"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> </div>
+Platform	Problems Solved	Key Skills
+LeetCode	100+	Data Structures, Algorithms, Python Optimization
+HackerRank	100+	Problem Solving, C++, Python, SQL
+
+<!-------------------------------------------------------------------------------------------><!--- LATEST WRITINGS SECTION ---><!------------------------------------------------------------------------------------------->
+✍️ LATEST WRITINGS
+<!-- BLOG-POST-LIST:START -->
+🔜 Building an AI-Powered LMS with Django and NLP
+
+🔜 Ethical Hacking Essentials for Developers
+
+🔜 Teaching Programming to Students of All Ages
+
+<!-- BLOG-POST-LIST:END -->
+<!-------------------------------------------------------------------------------------------><!--- CONTRIBUTION SNAKE ---><!------------------------------------------------------------------------------------------->
+📅 CONTRIBUTION ACTIVITY
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Cyber-security/Muhammad-Cyber-security/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Cyber-security/Muhammad-Cyber-security/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Muhammad-Cyber-security/Muhammad-Cyber-security/output/github-contribution-grid-snake.svg" /> </picture>
+<!-------------------------------------------------------------------------------------------><!--- FOOTER & CONTACT SECTION ---><!-------------------------------------------------------------------------------------------><div align="center">
+🌐 LET'S CONNECT
+Platform	Link
+💼 LinkedIn	linkedin.com/in/muhammad-abdullah-arif
+🐙 GitHub	github.com/Muhammad-Cyber-security
+🌍 Portfolio	muhammad-abdullah-arif-portfolio.netlify.app
+📧 Email	muhammadabdullaharif25july2002@gmail.com
+💬 WhatsApp	+92 336 7195002
+📝 Upwork	upwork.com/freelancers/~0137628100a8547682
+🏆 "Code with Purpose • Secure with Passion • Teach with Heart"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,100:2d6a4f&height=120&section=footer" width="100%" />
+⭐ If you like my work, consider following me and starring my repositories! ⭐
+
+</div> ```
