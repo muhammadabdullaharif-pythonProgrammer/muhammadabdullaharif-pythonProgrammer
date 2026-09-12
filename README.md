@@ -41,7 +41,7 @@
 | | |
 |---|---|
 | 🎯 **Mission** | Building secure, scalable, intelligent & beautiful systems that solve real-world problems |
-| 📍 **Location** | Jhang Sadar, Punjab, Pakistan |
+| 📍 **Location** | Lahore, Punjab, Pakistan |
 | 🎓 **Education** | B.Sc. Hons. Computer Science (Expected 2026) • GPA: 3.5/4.0 • **Top 10% of Class** |
 | 📜 **Certifications** | 40+ Industry Recognized • CEH v12 • CompTIA CySA+ • Python 100/100 |
 | ⭐ **Upwork** | 95% Client Satisfaction • International Clients |
